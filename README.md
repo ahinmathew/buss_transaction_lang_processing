@@ -1,3 +1,4 @@
+&copy; **Ahin Mathew**
 ## Business Transactions & Natural Language Processing Project
 ### **ACCCOUNTING \& INFORMATION TECHNOLOGY**
 
@@ -35,3 +36,5 @@ Information is also recorded in a database using SQL for the following analysis:
 * **Book\_Keeping.ipynb**: Computer Science, Jupyter File, Python Program Code, Database \& SQL, (Self-Made) Natural Language Processing, Financial Statements, Business Transactions, and Accountancy.
 * **requirements.txt**: Contains the required libraries
 * **Business Transactions Database**: A database called 'business\_transactions.db' is formed when running the Jupyter notebook..
+
+&copy; **Ahin Mathew**
